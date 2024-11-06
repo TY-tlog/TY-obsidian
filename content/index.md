@@ -1,3 +1,5 @@
 ---
-title: Understanding MLP Step by Step.
+title: Study and Discuss Deep Learning With Me!!
 ---
+---
+title : 
